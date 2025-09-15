@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic-burger-white</title>
+    <g id="ic-burger-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic-burger" transform="translate(4.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M24,12.25 L24,13.4166667 C24,13.7666667 23.76,14 23.4,14 L0.6,14 C0.24,14 0,13.7666667 0,13.4166667 L0,12.25 C0,11.9 0.24,11.6666667 0.6,11.6666667 L23.4,11.6666667 C23.76,11.6666667 24,11.9 24,12.25 Z M23.4,0 L0.6,0 C0.24,0 0,0.23333333 0,0.58333333 L0,1.75 C0,2.1 0.24,2.3333333 0.6,2.3333333 L23.4,2.3333333 C23.76,2.3333333 24,2.1 24,1.75 L24,0.58333333 C24,0.23333333 23.76,0 23.4,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
