@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina, hier komen veel verschillende onderdelen in terug
-  <img src="home_bacardi.PNG" width="375px" alt="homepagina bacardi.com">
+  <img src="readme-images/homepagina.png" width="375px" alt="homepagina bacardi.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   over ons, hier kan ik leren hoe je artikels voor elk scherm kan programmeren 
-  <img src="overons_bacardi.PNG" width="375px" alt="over ons pagina bacardi.com">
+  <img src="readme-images/overons_bacardi.PNG" width="375px" alt="over ons pagina bacardi.com">
  
 </details>
 
@@ -74,13 +74,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### homepagina: 
-  <img src="images/homepagina.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/homepagina.png" width="375px" alt="breakdown van de hele pagina">
 
   ### menu: 
-  <img src="images/menu.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### over ons: 
-  <img src="images/overons.png" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/overons.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
