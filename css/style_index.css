@@ -24,10 +24,11 @@ section:nth-of-type(3) a{
   color:var(--section-p-color);
   border: 2px solid var(--section-p-color);
   text-align: center;
+
 }
 
 @media (max-width: 800px) {
-  a {
+  section a {
     display: block;     
     width: calc(100% - 2em);         
     margin-top: 1em;
@@ -452,7 +453,7 @@ section ul.layered li:nth-child(2) img {
     height: auto;
   }
 
-  section:nth-of-type(9) ul, div{
+  section:nth-of-type(9) ul{
     margin-right: 5em;
 }
 
@@ -498,12 +499,6 @@ section ul.layered li:nth-child(2) img {
   section:nth-of-type(9) ul{
   margin-bottom: 6em;
 }
-}
-
-
-hr.divider {
-  border: 0.8px solid;
-  opacity: 0.2;
 }
 
 details {
