@@ -139,7 +139,21 @@ section a {
 /******************************/
 /*           HEADER           */
 /******************************/
+header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
 
+/* Wanneer de header een "witte" achtergrond moet krijgen */
+header.wit {
+  background-color: var(--section-p-color);
+}
+
+/* Wanneer de header doorzichtig moet zijn */
+header.doorzichtig {
+  background-color: transparent;
+}
 
 header button {
   border: none;
@@ -163,19 +177,31 @@ header ul li a {
    ========================= */
 
 @media (min-width: 800px) {
-  header ul:last-of-type, header > nav > div:nth-of-type(1), nav ul:nth-of-type(1) li:nth-of-type(2) button {
+  header nav {
+    padding: 2em;
+  }
+
+  header ul:last-of-type, header > nav > div:nth-of-type(1), nav ul:nth-of-type(1) li:nth-of-type(2) button, nav hr {
     display: none;
   }
 
     header ul{
     display: flex;
     gap: 2em;
-    align-items: end;
-    justify-content: end;
     margin-right: 3em;
-}
+    align-items: end; 
+    justify-content: end;
 }
 
+    header ul li a{
+    font-size: 0.8em; 
+}
+
+    header ul li img{
+    align-items: left;   
+}
+
+}
 
 /* =========================
    default (menu dicht)
@@ -203,6 +229,10 @@ header ul li a {
    ========================= */
 
 @media (max-width: 800px) {
+  nav.toonMenu > div:first-of-type {
+    display: none;
+  }
+ 
   nav.toonMenu ul {
     display: block;
     padding: 2em;
