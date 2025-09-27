@@ -8,22 +8,29 @@
     <link rel="stylesheet" href="css/style_overons.css">
 </head>
 <body>
-    <header>
+   <header>
         <nav>
-            <ul><a href="#">The angel's share</a>
-                <li><a href="index.html"><img src="img/Bacardi-Logo-Black.svg" alt="logo bacardi wit"></a></li>
-                <li><a href="#">onze rums</a></li>
-                <li><a href="#">cocktails</a></li>
-                <li><a href="#">duurzaamheid</a></li>
-                <li><a href="#">over ons</a></li>
-                <li><a href="#">faq</a></li>
-                <li><a href="#">login</a></li>
+            <div>
+                <a href="index.html"><img src="img/Bacardi-Logo-White.svg" alt="logo bacardi wit"></a>
+                <button aria-hidden="true" aria-label="open menu"><img src="img/ic-burger-white.svg" alt=""></button>
+            </div>
+            <div>
+                <a href="index.html"><img src="img/Bacardi-Logo-White.svg" alt="logo bacardi wit"></a>
+                <button aria-hidden="true" aria-label="sluit menu"><img src="img/ot_close.svg" alt=""></button>
+            </div>
+            <ul>
+                <li><a href="#">onze rums</a><hr class="divider"></li>
+                <li><a href="#">cocktails</a><hr class="divider"></li>
+                <li><a href="#">duurzaamheid</a><hr class="divider"></li>
+                <li><a href="#">over ons</a><hr class="divider"></li>
+                <li><a href="#">faq</a><hr class="divider"></li>
+                <li><a href="#">login</a><hr class="divider"></li>
             </ul>
             <ul>
-                <li><a href="#"><img src="img/ic-twitter-white.svg" alt="twitter logo "></a></li>
                 <li><a href="#"><img src="img/ic-instagram-white.svg" alt="instagram logo"></a></li>
                 <li><a href="#"><img src="img/ic-facebook-white.svg" alt="facebook logo"></a></li>
                 <li><a href="#"><img src="img/ic-youtube-white.svg" alt="youtube logo"></a></li>
+                <li><a href="#"><img src="img/ic-twitter-white.svg" alt="twitter logo "></a></li>
             </ul>
         </nav>
     </header>
@@ -32,7 +39,8 @@
             <video autoplay muted loop><source src="video/palmbomen.mp4" type="video/mp4"></video>
             <h1>Onze wereld</h1>
         </section>
-        <section>
+        <section class="artikels">
+            <h2>Onze artikels</h2>
             <article>
                 <img src="img/artikel1.jpg" alt="camila cabello met bacardi cocktail">
                 <p>hoofartikel</p>
@@ -109,10 +117,10 @@
                 <h2>Dit is ons verhaal</h2>
             </article>
             <article>
-            <img src="img/artikel16.jpg" alt="camila cabello met bacardi cocktail">
-            <p>in het nieuws</p>
-            <h2>The angel's share</h2>
-            <p>Een film met rum in de hoofdrol, van Michael B. Jordan. ‘The Angel’s Share’ toont de kunst en het ware vakmanschap achter BACARDÍ…</p>
+                <img src="img/artikel16.jpg" alt="camila cabello met bacardi cocktail">
+                <p>in het nieuws</p>
+                <h2>The angel's share</h2>
+                <p>Een film met rum in de hoofdrol, van Michael B. Jordan. ‘The Angel’s Share’ toont de kunst en het ware vakmanschap achter BACARDÍ…</p>
             </article>
             <article>
                 <img src="img/artikel17.jpg" alt="camila cabello met bacardi cocktail">
@@ -126,7 +134,8 @@
             </article>
         </section>
         <section>
-            <button type="button">load more</button>
+            <h2>Laad meer</h2>
+            <button class="laadButton">load more</button>
         </section>
     </main>
   <footer>
