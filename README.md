@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina, hier komen veel verschillende onderdelen in terug
-  <img src="../images/bacardi_home.png" width="375px" alt="homepagina bacardi.com">
+  <img src="../readme-images/bacardi_home.png" width="375px" alt="homepagina bacardi.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   over ons, hier kan ik leren hoe je artikels voor elk scherm kan programmeren 
-  <img src="../images/bacardi_overons.png" width="375px" alt="over ons pagina bacardi.com">
+  <img src="../readme-images/bacardi_overons.png" width="375px" alt="over ons pagina bacardi.com">
  
 </details>
 
@@ -69,9 +69,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     - screen gaat wel duidelijk door de website heen
     - artikel bij over ons pagina worden niet kleiner bij een kleiner formaat, hierdoor gaan ze onder elkaar staan. Dit geeft wel een mooie vormgeving.
 
-  <img src="./images/inspecteren_bacardi.png" width="375px" alt="inspecteren voor fouten">
-  <img src="./images/artikel_overons.png" width="375px" alt="over ons pagina artikelen onder elkaar">
-  
+  <img src="./readme-images/inspecteren_bacardi.png" width="375px" alt="inspecteren voor fouten">
+  <img src="./readme-images/artikel_overons.png" width="375px" alt="over ons pagina artikelen onder elkaar">
+
 </details>
 
 
