@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina, hier komen veel verschillende onderdelen in terug
-  <img src="readme-images/homepagina.png" width="375px" alt="homepagina bacardi.com">
+  <img src="../images/bacardi_home.png" width="375px" alt="homepagina bacardi.com">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   over ons, hier kan ik leren hoe je artikels voor elk scherm kan programmeren 
-  <img src="readme-images/overons_bacardi.PNG" width="375px" alt="over ons pagina bacardi.com">
+  <img src="../images/bacardi_overons.png" width="375px" alt="over ons pagina bacardi.com">
  
 </details>
 
@@ -56,13 +56,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  Kiki heeft mijn website bekeken, dit waren de belangrijkste dingen wat eruit kwamen:
+  Kiki heeft mijn website bekeken
+
+  Zwakke punten website: 
     - veel script in HTML
+    - veel console errors
     - alles in een div en classes
     - sommige img hebben alt en sommige niet, links hebben geen alt
     - video kan je niet op pauze zetten en blijft doorspelen
+
+  Sterke punten website: 
     - screen gaat wel duidelijk door de website heen
-    - artikel bij ons ons pagina worden niet kleiner bij een kleiner formaat, hierdoor gaan ze onder elkaar staan. 
+    - artikel bij over ons pagina worden niet kleiner bij een kleiner formaat, hierdoor gaan ze onder elkaar staan. Dit geeft wel een mooie vormgeving.
+
+  <img src="./images/inspecteren_bacardi.png" width="375px" alt="inspecteren voor fouten">
+  <img src="./images/artikel_overons.png" width="375px" alt="over ons pagina artikelen onder elkaar">
   
 </details>
 
@@ -87,91 +95,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
-## Voortgang 1 (week 2)
-
-<details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-  Tot nu toe is alles wel goed verlopen, de html werkt en de standaard css heb ik ook al erin gezet.
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
-</details>
-
-
-
-
-
-## Toegankelijkheidstest 2/2 (week 4)
-
-<details>
-  <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
-
-  ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
-</details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
 <details>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
@@ -179,23 +102,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
