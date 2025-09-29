@@ -82,13 +82,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### homepagina: 
-  <img src="readme-images/homepagina.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="./readme-images/homepagina.png" width="375px" alt="breakdown van de hele pagina">
 
   ### menu: 
-  <img src="readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="./readme-images/menu.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### over ons: 
-  <img src="readme-images/overons.png" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="./readme-images/overons.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
