@@ -52,21 +52,22 @@ window.addEventListener("scroll", function() {
 });
 
 // teskt slide-in
-var observer = new IntersectionObserver((entries) => {
-  entries.forEach((entry) => {
-    var intersecting = entry.isIntersecting;
-    
-    console.log(entry);
-    if(intersecting){
-           entry.target.classList.add("inbeeld");
-    }
-
+if (window.location.pathname === "/" || window.location.pathname.endsWith("/index.html")) { //Hiermee kijk je naar de url waar de gebruiker op zit. als dit de index is, begint de functie pas met uitvoeren
+  var observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      var intersecting = entry.isIntersecting;
+ 
+      console.log(entry);
+      if (intersecting) {
+        entry.target.classList.add("inbeeld");
+      }
+    });
   });
-});
-
-document.querySelectorAll("h2, p").forEach((el) => {
-  observer.observe(el);
-});
+ 
+  document.querySelectorAll("h2, p").forEach((el) => {
+    observer.observe(el);
+  });
+}
 
 
 
